@@ -1,0 +1,8 @@
+com/alibaba/demo/gateway/CreditGatewayImpl.class
+com/alibaba/demo/config/DiamondConfig.class
+com/alibaba/demo/repository/CustomerDO.class
+com/alibaba/demo/repository/CustomerRepository.class
+com/alibaba/demo/config/ColaConfig.class
+com/alibaba/demo/message/DomainEventPublisher.class
+com/alibaba/demo/common/BizCode.class
+com/alibaba/demo/repository/CustomerMapper.class

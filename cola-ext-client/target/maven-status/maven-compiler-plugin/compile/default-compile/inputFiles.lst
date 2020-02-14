@@ -1,0 +1,10 @@
+/Users/zhiqunwang/Documents/work/workspace/github/cola-ext/cola-ext-client/src/main/java/com/alibaba/demo/dto/domainevent/CustomerCreatedEvent.java
+/Users/zhiqunwang/Documents/work/workspace/github/cola-ext/cola-ext-client/src/main/java/com/alibaba/demo/dto/domainmodel/ErrorCode.java
+/Users/zhiqunwang/Documents/work/workspace/github/cola-ext/cola-ext-client/src/main/java/com/alibaba/demo/dto/domainmodel/CompanyType.java
+/Users/zhiqunwang/Documents/work/workspace/github/cola-ext/cola-ext-client/src/main/java/com/alibaba/demo/api/CustomerServiceI.java
+/Users/zhiqunwang/Documents/work/workspace/github/cola-ext/cola-ext-client/src/main/java/com/alibaba/demo/dto/domainevent/DomainEventConstant.java
+/Users/zhiqunwang/Documents/work/workspace/github/cola-ext/cola-ext-client/src/main/java/com/alibaba/demo/dto/domainmodel/CustomerType.java
+/Users/zhiqunwang/Documents/work/workspace/github/cola-ext/cola-ext-client/src/main/java/com/alibaba/demo/dto/domainmodel/SourceType.java
+/Users/zhiqunwang/Documents/work/workspace/github/cola-ext/cola-ext-client/src/main/java/com/alibaba/demo/dto/CustomerListByNameQry.java
+/Users/zhiqunwang/Documents/work/workspace/github/cola-ext/cola-ext-client/src/main/java/com/alibaba/demo/dto/domainmodel/Customer.java
+/Users/zhiqunwang/Documents/work/workspace/github/cola-ext/cola-ext-client/src/main/java/com/alibaba/demo/dto/CustomerAddCmd.java

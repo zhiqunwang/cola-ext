@@ -1,0 +1,5 @@
+com/alibaba/demo/domain/customer/domainservice/CreditChecker.class
+com/alibaba/demo/domain/gateway/CustomerGateway.class
+com/alibaba/demo/domain/gateway/CreditGateway.class
+com/alibaba/demo/domain/customer/Credit.class
+com/alibaba/demo/domain/customer/Customer.class
